@@ -1,4 +1,4 @@
-2º Exercício-programa de Introdução à Análise de Algoritmos (corrigido). Enunciado: " A empresa AG Sistemas quer aproveitar o próximo período de atualizações no
+2º Exercício-programa de Introdução à Análise de Algoritmos (corrigido). Enunciado: "A empresa AG Sistemas quer aproveitar o próximo período de atualizações no
  sistema principal para colocar em produção a máxima quantidade de atualizações
  possíveis. O período de atualizações ocorrerá durante um final de semana,
  começando às 22 horas de sábado e terminando às 12 horas de domingo, podendo
